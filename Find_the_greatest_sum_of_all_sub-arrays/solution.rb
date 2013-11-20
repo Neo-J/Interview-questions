@@ -1,5 +1,4 @@
 def great_subarr_sum arr
-	length = arr.length
 	sum = great_sum = 0
 	arr.each do |x|
 		sum += x
